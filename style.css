@@ -3,6 +3,10 @@ body, html {
     color: #72c3e2;
 }
 
+img {
+    height: 100% !important;
+}
+
 #logo {
     width: 15rem;
     padding: 2rem 0rem 2rem 0rem;
